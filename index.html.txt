@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<title>Alex Perez</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+
+<head> 
+ <div class="w3-bar w3-border w3-light-grey">
+  	<a href="#" class="w3-bar-item w3-button">Home</a>
+  	<a href="#" class="w3-bar-item w3-button w3-hover-green">Link 1</a>
+  	<a href="#" class="w3-bar-item w3-button w3-hover-blue">Link 2</a>
+  	<a href="#" class="w3-bar-item w3-button w3-hover-teal">Link 3</a>
+ </div>
+</Head
+
+
+<body class="w3-grey">
+	
+	<div class="w3-panel w3-light-grey w3-animate-fading w3-round ">
+  	<p>CIS 061 Creating Web Pages.</p>
+	</div> 
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-dark-grey w3-card-4 ">
+        <div class="w3-display-container" >
+          <img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/21558663_1699157683459181_7571426866190536156_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_ohc=QzZfKvj3I9gAX8LlDvK&_nc_ht=scontent-sjc3-1.xx&oh=b14667d08576d1bf876b65ecd311920c&oe=5FF6829C" style="width:50%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-white">
+            <h2 class="w3-center w3-animate-left w3-spin">Alex Perez</h2>
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Student</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Fairfield, CA</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>aperez15xx@students.solano.edu</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>(707)971-XXXX</p>
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-asterisk w3-spin fa-fw w3-margin-right w3-text-teal"></i>Alex's Skill level's</b></p>
+          <p>SLA and FDM 3D Printing</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-light-green " style="width:100%">100%</div>
+          </div>
+          <p>adobe Photoshop</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:65%">65%</div>
+          </div>
+          <p>Metal Casting</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:55%">55%</div>
+          </div>
+          <p>Aracde Frontend Designing</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:65%">65%</div>
+          </div>
+          <p>Music Production With Native Instruments Maschine</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-light-green" style="width:100%">100%</div>
+          </div>
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Languages Learned</b></p>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-light-green" style="width:100%">100%</div>
+          </div>
+          <p>Spanish</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div>
+          </div>
+          <p>R'lyehian</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:20%">20%</div>
+          </div>
+           <p>Klingon</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:5%">5%</div>
+          </div>
+
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Arcade Frontend Programmer/ Team Member</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2019 - <span class="w3-tag w3-light-green w3-round">Current Job</span></h6>
+          <p>I am currently a self employeed co Arcade Front end programmer and video game software developer</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Lead Artist/ Creative Team Member At Trader Joes</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>March 2015 - November 2019</h6>
+          <p>creating large signs and displays, designing 3d displays like 6 foot planes made of foam core and building displays made of wood.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Hydroponics Systems Developer</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2010 - Mar 2013</h6>
+          <p>Created and developing small scale hydroponics systems combined with intigraded solar panels  </p><br>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate w3-spin fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>School/Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Solano Community College</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016-2017,2019-<span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <p>Computer science,Web Development</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Personal Experience</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2010-<span class="w3-tag w3-teal w3-round">Forever</span></h6>
+          <br>
+          
+          <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/593898732&color=%23d2b6ad&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alex-zerep" title="..Ap.." target="_blank" style="color: #cccccc; text-decoration: none;">..Ap..</a> · <a href="https://soundcloud.com/alex-zerep/sets/ap" title="AP" target="_blank" style="color: #cccccc; text-decoration: none;">AP</a></div> 
+           
+        </div>
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  <p>Find me on social media.</p>
+  <i class="fa fa-facebook-official w3-hover-opacity"></i>
+  <i class="fa fa-instagram w3-hover-opacity"></i>
+  <i class="fa fa-snapchat w3-hover-opacity"></i>
+  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+  <i class="fa fa-twitter w3-hover-opacity"></i>
+  <i class="fa fa-linkedin w3-hover-opacity"></i>
+</footer>
+
+
+<!-- Contact/Area Container -->
+<div class="w3-container" id="where" style="padding-bottom:32px;">
+  <div class="w3-content" style="max-width:700px">
+    <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">WHERE TO FIND ME</span></h5>
+    <p>4000 Suisun Valley Rd, Fairfield, CA 94534</p>
+    <img src="https://images.squarespace-cdn.com/content/v1/57473789a3360c4623ca184a/1507078687851-K0H491B4KWBXM4OQFR0I/ke17ZwdGBToddI8pDm48kKXnBPkNInb_41BUgvzJvDF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0haypLsn6iFkXbd5QrnyzAHX2Zb3fZIFMDZsEevsiwwdJdDX8AqURAyWiS0ZUvTLag/solano_autotech_1.jpg" class="w3-image" style="width:100%">
+    
+ <!-- where i put the map--> 
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3133.9087807889937!2d-122.1220876848105!3d38.23522399330721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808513d108651bfd%3A0xe3d1128db9139b28!2sSolano%20Community%20College!5e0!3m2!1sen!2sus!4v1607464412314!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    
+    <p><span class="w3-tag">!!!</span> I offer Small and Large scale project services </p>
+    <p><strong>Message Me</strong> and add any info about what your looking for .</p>
+    <form action="/action_page.php" target="_blank">
+      <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Your Name" required name="Name"></p>
+      <p><input class="w3-input w3-padding-16 w3-border" type="number" placeholder="Number of projects" required name="Number of projects"></p>
+      <p><input class="w3-input w3-padding-16 w3-border" type="datetime-local" placeholder="Date And Time Of Deadline" required name="date" value="Date And Time Of Deadline"></p>
+      <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Message \ Special requirements" required name="Message"></p>
+      <p><button class="w3-button w3-black" type="submit">SEND ME A MESSAGE</button></p>
+    </form>
+  </div>
+</div>
+</body>
+</html>
